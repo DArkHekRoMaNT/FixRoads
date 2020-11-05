@@ -25,8 +25,13 @@
     "*-up-south-*": { "all": false, "down": true },
     "*-up-east-*": { "all": false, "down": true }
   },
-  "shape": {
-    "base": "fixroads:block/basic/stairs/lowered/{horizontalorientation}"
+  "shapeByType": {
+    "*-snow": {
+      "base": "fixroads:block/basic/stairs/snow-lowered/{horizontalorientation}"
+    },
+    "*": {
+      "base": "fixroads:block/basic/stairs/lowered/{horizontalorientation}"
+    }
   },
   "blockmaterial": "Gravel",
   "textures": {

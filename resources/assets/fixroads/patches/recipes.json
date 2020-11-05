@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:recipes/grid/stonepath.json",
+    "op": "replace",
+    "path": "/output",
+    "value": { "type": "block", "code": "game:stonepath-free", "quantity": 1 }
+  }
+]
