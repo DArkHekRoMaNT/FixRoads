@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "fixroads",
+  "name": "Fix Roads",
+  "author": "DArkHekRoMaNT",
+  "description": "Improved game roads",
+  "version": "1.0.0",
+  "dependency": {
+    "game": "1.13.4"
+  }
+}
