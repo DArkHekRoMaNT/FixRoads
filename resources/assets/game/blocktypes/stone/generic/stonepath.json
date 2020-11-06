@@ -9,6 +9,7 @@
   "replaceable": 900,
   "lightAbsorption": 99,
   "variantgroups": [{ "code": "cover", "states": ["free", "snow"] }],
+  "drops": [{ "code": "stonepath-free" }],
   "textures": {
     "all": {
       "base": "game:block/stone/path/normal1",
