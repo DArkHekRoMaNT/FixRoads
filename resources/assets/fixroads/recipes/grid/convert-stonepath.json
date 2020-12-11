@@ -1,0 +1,20 @@
+[
+  {
+    "ingredientPattern": "P",
+    "ingredients": {
+      "P": { "type": "block", "code": "game:stonepath" }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "block", "code": "game:stonepath-free" }
+  },
+  {
+    "ingredientPattern": "P",
+    "ingredients": {
+      "P": { "type": "block", "code": "game:stonepath-free" }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "block", "code": "game:stonepath" }
+  }
+]

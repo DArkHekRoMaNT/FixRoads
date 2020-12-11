@@ -1,3 +1,4 @@
 ﻿{
-  "game:block-stonepath-*": "Stone path"
+  "game:block-stonepath-*": "Stone path",
+  "game:block-stonepath": "Old stone path"
 }

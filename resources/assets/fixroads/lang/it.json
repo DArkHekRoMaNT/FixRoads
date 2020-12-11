@@ -1,3 +1,4 @@
 {
-  "game:block-stonepath-*": "Sentiero di pietra"
+  "game:block-stonepath-*": "Sentiero di pietra",
+  "game:block-stonepath": "Old stone path"
 }
