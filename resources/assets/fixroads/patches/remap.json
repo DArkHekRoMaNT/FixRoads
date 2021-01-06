@@ -1,8 +1,0 @@
-[
-  {
-    "file": "game:config/remaps.json",
-    "op": "add",
-    "path": "/fixroads:stonepath",
-    "value": ["/bir remapq stonepath-free stonepath force"]
-  }
-]
